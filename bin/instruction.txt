@@ -1,0 +1,20 @@
+To Run This Application:
+    To Run this Application from the Command Prompt
+        required: 
+            JDK version 17.0.+
+            javafx SDK version 17.0.+ in tester system.
+    You have to open the folder where *.jar file in Command Prompt the use the following Command to run this Application.
+    Command: java --module-path "C:\Users\USER\Downloads\OpenJFX 20.0.1 SDK\JavaFX-SDK\lib" --add-modules javafx.controls,javafx.fxml,javafx.media -jar ProjectPiano.jar
+
+To Play the Piano:
+    All white key from left to right can be played by pressing the following keys from the KeyBoard
+    'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';', ' , '[', ']', '\' represent keys from PianoFigure
+    C2   D2    E2   F2   G2   A2   B2   C3   D3   E3  F3   G3   A3  B3 respectfully
+
+    and
+    
+    All Black key from left to right can be played by pressing the following keys from the KeyBoard
+    'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p' represent keys from PianoFigure
+    C#2  D#2  F#2  G#2  A#2  C#3  D#3  F#3  G#3  A#3  respectfully.
+
+

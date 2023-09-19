@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="400.0" minWidth="904.0" prefHeight="400.0" prefWidth="904.0" style="-fx-background-color: black;" styleClass="frame" stylesheets="@../CSSFiles/frame.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <bottom>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="200.0" minWidth="904.0" prefHeight="200.0" prefWidth="904.0" style="-fx-background-color: color;" BorderPane.alignment="CENTER">
+         <children>
+            <Rectangle fx:id="C2" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t01" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="5.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="C2" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="D2" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="65.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t02" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="68.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="D2" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="CS2" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="36.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Rectangle fx:id="E2" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="130.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t03" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="135.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="E2" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="F2" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="195.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t04" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="198.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="F2" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="G2" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="260.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t05" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="265.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="G2" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="A2" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="325.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t06" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="330.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="A2" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="B2" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="390.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t07" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="393.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="B2" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="C3" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="455.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t08" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="460.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="C3" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="D3" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="520.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t09" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="523.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="D3" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="E3" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="585.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t10" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="590.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="E3" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="F3" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="650.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t11" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="653.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="F3" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="G3" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="715.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t12" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="720.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="G3" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="A3" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="780.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t13" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="785.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="A3" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="B3" arcHeight="5.0" arcWidth="10.0" fill="WHITE" height="200.0" layoutX="845.0" stroke="BLACK" strokeType="INSIDE" width="60.0" />
+            <Text fx:id="t14" boundsType="VISUAL" fontSmoothingType="LCD" layoutX="848.0" layoutY="164.0" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" text="B3" wrappingWidth="60.0" x="10.0" y="10.0">
+               <font>
+                  <Font size="26.0" />
+               </font>
+            </Text>
+            <Text fx:id="t15" fontSmoothingType="LCD" layoutX="37.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="C#2">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="DS2" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="102.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Text fx:id="t16" fontSmoothingType="LCD" layoutX="104.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="D#2">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Rectangle fx:id="FS2" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="231.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Rectangle fx:id="GS2" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="297.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Rectangle fx:id="AS2" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="365.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Rectangle fx:id="CS3" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="491.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Rectangle fx:id="DS3" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="558.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Rectangle fx:id="FS3" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="685.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Rectangle fx:id="GS3" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="753.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Rectangle fx:id="AS3" arcHeight="5.0" arcWidth="5.0" fill="#011318" height="150.0" layoutX="819.0" stroke="BLACK" strokeType="INSIDE" width="50.0" />
+            <Text fx:id="t17" fontSmoothingType="LCD" layoutX="232.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="F#2">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Text fx:id="t18" fontSmoothingType="LCD" layoutX="299.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="G#2">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Text fx:id="t19" fontSmoothingType="LCD" layoutX="367.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="A#2">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Text fx:id="t20" fontSmoothingType="LCD" layoutX="492.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="C#3">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Text fx:id="t21" fontSmoothingType="LCD" layoutX="559.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="D#3">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Text fx:id="t22" fontSmoothingType="LCD" layoutX="686.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="F#3">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Text fx:id="t23" fontSmoothingType="LCD" layoutX="754.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="G#3">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <Text fx:id="t24" fontSmoothingType="LCD" layoutX="822.0" layoutY="128.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-fill: white;" text="A#3">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+         </children>
+      </AnchorPane>
+   </bottom>
+</BorderPane>

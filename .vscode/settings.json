@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\USER\\Downloads\\OpenJFX 20.0.1 SDK\\JavaFX-SDK\\lib\\javafx.base.jar",
+            "c:\\Users\\USER\\Downloads\\OpenJFX 20.0.1 SDK\\JavaFX-SDK\\lib\\javafx.controls.jar",
+            "c:\\Users\\USER\\Downloads\\OpenJFX 20.0.1 SDK\\JavaFX-SDK\\lib\\javafx.fxml.jar",
+            "c:\\Users\\USER\\Downloads\\OpenJFX 20.0.1 SDK\\JavaFX-SDK\\lib\\javafx.graphics.jar",
+            "c:\\Users\\USER\\Downloads\\OpenJFX 20.0.1 SDK\\JavaFX-SDK\\lib\\javafx.media.jar",
+            "c:\\Users\\USER\\Downloads\\OpenJFX 20.0.1 SDK\\JavaFX-SDK\\lib\\javafx-swt.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\USER\\Downloads\\OpenJFX 20.0.1 SDK\\JavaFX-SDK\\lib\\javafx.web.jar",
+            "lib/javafx.web.jar"
+        ]
+    }
+}
